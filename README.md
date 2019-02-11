@@ -2,9 +2,10 @@
 
 ### Prerequisites
 
-* Create an Azure subscription.
-* Install Visual Studio Code (http://code.visualstudio.com).
-* Install the Visual Studio Code Azure Resource Manager extension.
+* An Azure subscription
+* Visual Studio Code (http://code.visualstudio.com)
+* The Visual Studio Code Azure Resource Manager extension
+  * Tip - In Visual Studio Code, press [Ctrl+Shift+X] to access the extension manager.
 
 ### Demo steps
 
