@@ -19,4 +19,4 @@
 8. Create a new resource group through the Cloud Shell:
   - ```az group create --name [your resource group name] --location [group location (e.g., francecentral)]```
 9. Deploy the uploaded template to your newly created resource group through the Cloud Shell:
-  - ```az group deployment create --resource-group [name of resource group created in previous step] --template-file "azuredeploy.json"```
+  - ```az group deployment create --name deploy1 --resource-group [name of resource group created in previous step] --template-file "azuredeploy.json"```
